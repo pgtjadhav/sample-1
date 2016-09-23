@@ -1,0 +1,5 @@
+Create table <table name> (col1 datatype(size),col2 datatype(size),....);
+
+
+
+alter table <table name> add <col name> datatype(size);
